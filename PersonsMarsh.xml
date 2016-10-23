@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<people>
+    <person id="65.0">
+        <firstname>Lary</firstname>
+        <lastname>Page</lastname>
+        <birthdate>1973-09-20T18:00:00.000+01:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-09-20T18:00:00.000+02:00</lastupdate>
+            <weight>80.0</weight>
+            <height>1.8</height>
+            <bmi>31.0</bmi>
+        </healthprofile>
+    </person>
+    <person id="86.0">
+        <firstname>Bob</firstname>
+        <lastname>Marley</lastname>
+        <birthdate>1944-06-03T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <weight>70.0</weight>
+            <height>1.75</height>
+            <bmi>32.0</bmi>
+        </healthprofile>
+    </person>
+    <person id="96.0">
+        <firstname>Michael</firstname>
+        <lastname>Jackson</lastname>
+        <birthdate>1959-12-10T18:00:00.000+01:00</birthdate>
+        <healthprofile>
+            <lastupdate>2002-09-20T18:00:00.000+02:00</lastupdate>
+            <weight>67.0</weight>
+            <height>1.76</height>
+            <bmi>32.0</bmi>
+        </healthprofile>
+    </person>
+</people>

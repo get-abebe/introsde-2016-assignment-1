@@ -1,0 +1,36 @@
+{
+  "person" : [ {
+    "firstname" : "Lary",
+    "lastname" : "Page",
+    "birthdate" : "2001-6-8",
+    "healthprofile" : {
+      "weight" : 85.5,
+      "height" : 1.72,
+      "lastupdate" : "2014-09-20T18:00:00.000+02:00",
+      "bmi" : 31.14
+    },
+    "id" : 7701
+  }, {
+    "firstname" : "Bob",
+    "lastname" : "Marley",
+    "birthdate" : "1944-06-03",
+    "healthprofile" : {
+      "weight" : 85.5,
+      "height" : 1.72,
+      "lastupdate" : "2014-09-20T18:00:00.000+02:00",
+      "bmi" : 31.14
+    },
+    "id" : 1
+  }, {
+    "firstname" : "Michael",
+    "lastname" : "Jackson",
+    "birthdate" : "1959-12-10",
+    "healthprofile" : {
+      "weight" : 70.0,
+      "height" : 1.75,
+      "lastupdate" : null,
+      "bmi" : 22.0
+    },
+    "id" : 2
+  } ]
+}
