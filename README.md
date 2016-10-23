@@ -29,7 +29,7 @@ PersonsMarsh.xsd for validation and did the un-marshal by JAXBUNMarshaller class
 
 PersonsMarsh.json file by using JaxbJson class from java objects. All the marshaling and un-marshaling tasks 
 
-corresponds to java classes which are found in jaxbClass, people.generated and model packages.
+corresponds to java classes which are found in jaxbClass, people.generated and model packages.<br />
 
 
 To execute the code, first go to my public repository( introsde-2016-assignment-1) click clone or download the 
