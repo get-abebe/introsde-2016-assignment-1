@@ -32,9 +32,9 @@ PersonsMarsh.json file by using JaxbJson class from java objects. All the marsha
 corresponds to java classes which are found in jaxbClass, people.generated and model packages.
 
 
-To execute the code, first go to my public repository( introsde-2016-assignment-1) hit clone or download the 
+To execute the code, first go to my public repository( introsde-2016-assignment-1) click clone or download the 
 
-repository to your local machine. Second, Open your shell and change the directory to the downloaded assignment 
+repository to your local machine. Second, Open your shell and change the current directory to the downloaded assignment 
 
 folder.Then finally, write ant compile and hit enter. Once it finishes downlading and compiling , write ant 
 
