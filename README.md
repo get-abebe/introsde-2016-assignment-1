@@ -1,7 +1,7 @@
 # introsde-2016-assignment-1
 
 Introduction to service design and engineering Assignment 01: Reading/Writing objects to and from XML and JSON <br /><br />
-   Name: Getachew De. Abebe    ID: 174359
+   Name: Getachew De. Abebe         ID: 174359
 
 The code is organized as the following: There are four packages: healthProfile, JaxbClass, model and 
 
